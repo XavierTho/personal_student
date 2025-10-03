@@ -1,17 +1,13 @@
 title: Open Coding 
 description: "Class of 2026"
-owner_name: John Mortensen
-github_username: jm1021 
-github_repo: "student" 
-baseurl: "/student" 
+owner_name: Xavier Thompson
+github_username: XavierTho
+github_repo: "personal_student" 
+baseurl: "/personal_student" 
 future: true
 remote_theme: jekyll/minima
 minima:
   skin: dark
-  social_links:
-    - { platform: github, user_url: "https://github.com/open-coding-society" }
-    - { platform: x, user_url: "https://x.com/Open_Coding" }
-    - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" } 
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
